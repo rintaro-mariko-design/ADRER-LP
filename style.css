@@ -42,9 +42,6 @@ body{
     bottom:2.3%;
     height:3.9%;
 
-    background:rgba(255,0,0,.3);
-    border:2px solid red;
-
     z-index:10;
 }
 /* 5番だけ */
@@ -64,9 +61,6 @@ body{
 
     bottom:7%;
     height:5%;
-
-    background:rgba(0,0,255,.3);
-    border:2px solid blue;
 
     z-index:11;
 }
