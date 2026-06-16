@@ -39,7 +39,7 @@ body{
     left:10%;
     width:80%;
 
-    bottom:4.5%;
+    bottom:3.5%;
     height:3.2%;
 
     background:rgba(255,0,0,.3);
@@ -49,7 +49,7 @@ body{
 }
 /* 5番だけ */
 .item5 .price-link{
-    bottom:20%;
+    bottom:18%;
     height:3%;
 }
 /* =========================
@@ -59,7 +59,7 @@ body{
 .item5 .all-item-link{
     position:absolute;
 
-    left:2%;
+    left:5%;
     width:90%;
 
     bottom:5%;
