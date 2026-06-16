@@ -1,0 +1,21 @@
+.lp-item{
+    position:relative;
+}
+
+.lp-item img{
+    width:100%;
+    display:block;
+}
+
+.price-link{
+    position:absolute;
+
+    /* 金額ボックスの位置 */
+    left:10%;
+    bottom:6%;
+
+    width:80%;
+    height:50px;
+
+    z-index:10;
+}
