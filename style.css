@@ -1,0 +1,67 @@
+/* =========================
+   共通
+========================= */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    background:#000;
+}
+
+.lp{
+    width:100%;
+    max-width:1080px;
+    margin:0 auto;
+}
+
+.item{
+    position:relative;
+}
+
+.item img{
+    display:block;
+    width:100%;
+    height:auto;
+}
+
+/* =========================
+   商品価格ボタン
+========================= */
+
+.price-link{
+    position:absolute;
+
+    left:10%;
+    width:80%;
+
+    bottom:4.5%;
+    height:3.2%;
+
+    background:rgba(255,0,0,.3);
+    border:2px solid red;
+
+    z-index:10;
+}
+
+/* =========================
+   ALL ITEM
+========================= */
+
+.item5 .all-item-link{
+    position:absolute;
+
+    left:5%;
+    width:90%;
+
+    bottom:1.8%;
+    height:3.8%;
+
+    background:rgba(0,0,255,.3);
+    border:2px solid blue;
+
+    z-index:11;
+}
