@@ -9,13 +9,26 @@
 
 .price-link{
     position:absolute;
-
-    /* 金額ボックスの位置 */
     left:10%;
-    bottom:6%;
-
     width:80%;
-    height:50px;
+    height:7%;
+    bottom:5%;
+
+    background:red;
+    opacity:0.4;
+
+    z-index:10;
+}
+
+.all-item-link{
+    position:absolute;
+    left:5%;
+    width:90%;
+    height:8%;
+    bottom:2%;
+
+    background:blue;
+    opacity:0.4;
 
     z-index:10;
 }
