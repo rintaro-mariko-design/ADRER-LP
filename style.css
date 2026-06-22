@@ -46,11 +46,11 @@ body{
 }
 /* 5番だけ */
 .item5 .price-link{
-    bottom:20.5%;
+    bottom:22%;
     height:4%;
 }
 .item1 .price-link{
-    bottom:4.7%;
+    bottom:5%;
 }
 
 /* =========================
@@ -63,7 +63,7 @@ body{
     left:5%;
     width:90%;
 
-    bottom:11%;
+    bottom:10.8%;
     height:5%;
 
     z-index:11;
